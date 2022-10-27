@@ -1,10 +1,13 @@
 {
-  "name": "tEUHeslEjIP271BkB1lVNeOsaaDaax5R2VWFtPCGYTTssK6OSF",
+  "name": "หวยฮานอยวันนี้สด ดูที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "หวยฮานอยวันนี้สด แพะ ทว่า หวยฮานอยวันนี้สด ที่ Huay24 เว็บหวยออนไลน์ อันดับหนึ่ง 35หวยลาวเลขท้าย 4 ตัว หวยฮานอยวันนี้สด 8408หวยลาวเลข 5 ตัว 78408หอย 02หวยล",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": ["หวยฮานอยวันนี้สด","หวยฮานอยวันนี้สด Huay24"],
+  "keywords": [
+    "หวยฮานอยวันนี้สด",
+    "หวยฮานอยวันนี้สด Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
