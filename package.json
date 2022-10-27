@@ -1,10 +1,13 @@
 {
-  "name": "418LMi0ONRVDn6Qtqekqpgv32Q4MHWNlCMgOXmmfWdeNAgAcyT",
+  "name": "หวยหุ้นจีนดูยังไง คืออะไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.40",
   "description": "หวยหุ้นจีนดูยังไง เป็นอย่างไรบ้างครับเทคนิคของเราที่ได้ให้ไว้ ถึง หวยหุ้นจีนดูยังไง Ruay หวยออนไลน์ อันดับหนึ่ง ท่านสมาชิกสามารถนำไปใช้ในการซื้อหวยของท่านไ",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": ["หวยหุ้นจีนดูยังไง","หวยหุ้นจีนดูยังไง Ruay"],
+  "keywords": [
+    "หวยหุ้นจีนดูยังไง",
+    "หวยหุ้นจีนดูยังไง Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
