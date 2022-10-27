@@ -1,10 +1,13 @@
 {
-  "name": "9UR6AID9O987ss4BeUGBxDyZ3VugsP2DSCiOyxH6vnI63ZDH3A",
+  "name": "เว็บหวยฮานอย แตกต่างกันอย่างไร - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "เว็บหวยฮานอย เลขเด็ดที่เว็บไซต์หวยไทยของเราจะนำเสนอเป็นแนวทางสลากกินแบ่งรัฐบาล และ เว็บหวยฮานอย Huaydee หวยดี หวยออนไลน์ มีหวยทุกชนิด หรือ หวยรัฐบาล งวดวัน",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": ["เว็บหวยฮานอย","เว็บหวยฮานอย Huaydee"],
+  "keywords": [
+    "เว็บหวยฮานอย",
+    "เว็บหวยฮานอย Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
