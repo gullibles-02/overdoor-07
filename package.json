@@ -1,10 +1,13 @@
 {
-  "name": "ISVp7z7kwVVhV9g7mOErZNBGTSFHGN3dUoexvoFOZ8IICWREsN",
+  "name": "สูตรหวยยี่กี ดูที่ไหน - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.47",
   "description": "สูตรหวยยี่กี ชุดสองตัวชุดสามตัว ใน สูตรหวยยี่กี Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": ["สูตรหวยยี่กี","สูตรหวยยี่กี Huaylike"],
+  "keywords": [
+    "สูตรหวยยี่กี",
+    "สูตรหวยยี่กี Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
