@@ -1,10 +1,18 @@
 {
-  "name": "nUDlcdaGbJTQUciCvhfOvlY4fg3lgpgdw0ZjT4GDhC2VHbgooY",
+  "name": "เว็บหวยที่มี หุ้น vip สรุปว่าอะไร - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.34",
   "description": "เว็บหวยที่มี หุ้น VIP สถิติหวยพม่าย้อนหลัง แด่ เว็บหวยที่มี หุ้น VIP Ltobet แอลทีโอ เบท หวยออนไลน์ มีหวยทุกชนิด ผลหวยหุ้นพม่าย้อนหลังทางเว็บไซต์เรา เว็บหวย",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": ["เว็บหวยที่มี หุ้น VIP","เว็บหวยที่มี","หุ้น","VIP","เว็บหวยที่มี Ltobet","หุ้น Ltobet","VIP Ltobet"],
+  "keywords": [
+    "เว็บหวยที่มี หุ้น VIP",
+    "เว็บหวยที่มี",
+    "หุ้น",
+    "VIP",
+    "เว็บหวยที่มี Ltobet",
+    "หุ้น Ltobet",
+    "VIP Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
