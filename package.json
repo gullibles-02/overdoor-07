@@ -1,13 +1,10 @@
 {
-  "name": "สูตรหวยมาเลย์เข้าทุกงวด แตกต่างกันอย่างไร - เว็บใหม่ huaylike 2023 ล่าสุด",
+  "name": "gXOG3XZRFJbdRd7cFeThO65JDykoyIgb2e0riCZE4gBWteNM5s",
   "theme": "syntax",
   "version": "1.0.51",
   "description": "สูตรหวยมาเลย์เข้าทุกงวด หวยหุ้นอินเดียย้อนหลัง หรือ สูตรหวยมาเลย์เข้าทุกงวด Huaylike หวยออนไลน์ อันดับหนึ่ง ตรวจผลหวยหุ้นอินเดีย 090265 ที่อัปเดตใหม่ล่าสุด",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": [
-    "สูตรหวยมาเลย์เข้าทุกงวด",
-    "สูตรหวยมาเลย์เข้าทุกงวด Huaylike"
-  ],
+  "keywords": ["สูตรหวยมาเลย์เข้าทุกงวด","สูตรหวยมาเลย์เข้าทุกงวด Huaylike"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
