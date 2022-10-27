@@ -1,13 +1,10 @@
 {
-  "name": "เว็บหวยฮานอย แตกต่างกันอย่างไร - เว็บใหม่ huaydee 2023 ล่าสุด",
+  "name": "AhaYVHfSCaMQdlZelxdx6rR4kFbfC6dFZlYNQk6eK8j6hcsQSk",
   "theme": "syntax",
   "version": "1.0.6",
-  "description": "เว็บหวยฮานอย เลขเด็ดที่เว็บไซต์หวยไทยของเราจะนำเสนอเป็นแนวทางสลากกินแบ่งรัฐบาล และ เว็บหวยฮานอย Huaydee หวยดี หวยออนไลน์ มีหวยทุกชนิด หรือ หวยรัฐบาล งวดวัน",
+  "description": "ผลหุ้นเยอรมัน การแทงหวยหุ้นฮั่งเส็งออนไลน์นั้น แต่ว่า ผลหุ้นเยอรมัน Jetsadabet เจษฎาเบท หวยออนไลน์ มีหวยทุกชนิด ทางเว็บไซต์ Mughuay ให้ราคาจ่ายที่คุ้มค่ามา",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": [
-    "เว็บหวยฮานอย",
-    "เว็บหวยฮานอย Huaydee"
-  ],
+  "keywords": ["ผลหุ้นเยอรมัน","ผลหุ้นเยอรมัน Jetsadabet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
