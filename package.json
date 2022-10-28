@@ -1,10 +1,13 @@
 {
-  "name": "QG9mtA5OOgAKhfppHSmvUu7XEN6X0edZs7xBcJIDiNXrmiJJlY",
+  "name": "หุ้นเกาหลี เลือกยังไง - เว็บใหม่ uwin789 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.80",
   "description": "หุ้นเกาหลี สำหรับสถิติผลหวยฮานอยของเดือนนี้ กับ หุ้นเกาหลี Uwin789 ยูวิน หวยออนไลน์ มีหวยทุกชนิด สมาชิกสามารถนำเลขที่เคยออกมาแล้ว ไปวิเคราะห์เป็นแนวทางหาเล",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": ["หุ้นเกาหลี","หุ้นเกาหลี Uwin789"],
+  "keywords": [
+    "หุ้นเกาหลี",
+    "หุ้นเกาหลี Uwin789"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
