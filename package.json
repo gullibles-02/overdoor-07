@@ -1,10 +1,16 @@
 {
-  "name": "ovWEWdCbK3faHts6oLQnsmKy3U6SpO3Pc4ThPLf6e4hph5NWDe",
+  "name": "ตารางคะแนน นอร์เวย์ เล่นที่ไหน - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.56",
   "description": "ตารางคะแนน นอร์เวย์ ผลการออกสลากกินแบ่งรัฐบาล ตาม ตารางคะแนน นอร์เวย์ ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง ประจำงวดวันที่ 1 พฤศจิกายน 2566รางวัลที่ สอ",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": ["ตารางคะแนน นอร์เวย์","ตารางคะแนน","นอร์เวย์","ตารางคะแนน Huay Happy","นอร์เวย์ Huay Happy"],
+  "keywords": [
+    "ตารางคะแนน นอร์เวย์",
+    "ตารางคะแนน",
+    "นอร์เวย์",
+    "ตารางคะแนน Huay Happy",
+    "นอร์เวย์ Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
