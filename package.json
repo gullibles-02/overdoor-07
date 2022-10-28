@@ -1,10 +1,16 @@
 {
-  "name": "LIGTCDsfi8TzbVT92TJuR0bHy5bQK39z1uFactYphodOHDeThQ",
+  "name": "หุ้นเกาหลี กราฟ ดูยังไง - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "หุ้นเกาหลี กราฟ ซึ่งหากท่านอยากทราบเทคนิคการเล่นหวยหุ้นเพิ่มเติม หุ้นเกาหลี กราฟ หรือ หุ้นเกาหลี กราฟ Masurebet มาชัวร์เบท หวยออนไลน์ มีหวยทุกชนิด ให้อ่านบ",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": ["หุ้นเกาหลี กราฟ","หุ้นเกาหลี","กราฟ","หุ้นเกาหลี Masurebet","กราฟ Masurebet"],
+  "keywords": [
+    "หุ้นเกาหลี กราฟ",
+    "หุ้นเกาหลี",
+    "กราฟ",
+    "หุ้นเกาหลี Masurebet",
+    "กราฟ Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
