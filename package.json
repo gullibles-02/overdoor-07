@@ -1,13 +1,10 @@
 {
-  "name": "กลุ่มหวยลาวไทยแบ่งปัน เล่นยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "q2kB9Q3NB3KI0HIASAhzMfHFYZ6gcq6kHcE4W4RJFHHdwG1GCI",
   "theme": "syntax",
   "version": "1.0.83",
   "description": "กลุ่มหวยลาวไทยแบ่งปัน ตรวจผลการออกรางวัล กับ กลุ่มหวยลาวไทยแบ่งปัน ที่ Huaysod เว็บหวยออนไลน์ อันดับหนึ่ง หวยหุ้นอินเดีย เช็คผลหุ้นอินเดีย ประจำงวดวันที่ 1",
   "repository": "https://github.com/gullibles-02/overdoor-07",
-  "keywords": [
-    "กลุ่มหวยลาวไทยแบ่งปัน",
-    "กลุ่มหวยลาวไทยแบ่งปัน Huaysod"
-  ],
+  "keywords": ["กลุ่มหวยลาวไทยแบ่งปัน","กลุ่มหวยลาวไทยแบ่งปัน Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
